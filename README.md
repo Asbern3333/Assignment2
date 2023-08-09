@@ -11,3 +11,6 @@ https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced
 
 Passing arrays as parameters:
 https://www.samanthaming.com/tidbits/48-passing-arrays-as-function-arguments/
+
+# Tech 
+JavaScript
